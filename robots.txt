@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Sitemap: http://zhoukk.com/sitemap.xml
+Sitemap: http://zhoukk.com/sitemap.html
