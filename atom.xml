@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>zhoukk</title>
+ <id>http://zhoukk.com</id>
+ <link rel="self" href="http://zhoukk.com/atom.xml"></link>
+ <updated>17 Oct 14 23:08 CST</updated>
+ <entry>
+  <title>Dennis Ritchie</title>
+  <id>http://zhoukk.com/2014/10/dennis_ritchie.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/10/dennis_ritchie.html"></link>
+  <published>13 Oct 14 14:10 UTC</published>
+  <updated>13 Oct 14 14:10 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html"></summary>
+  <content type="html"><p><img src="/image/dennis_ritchie.jpg" alt="dennis ritchie" />
+</p>
+
+<pre><code>#include &lt;stdio.h&gt;
+
+int main() {
+    printf(&quot;Goodbye World\n&quot;);
+    return 0;
+}
+</code></pre>
+</content>
+ </entry>
+ <entry>
+  <title>关于pjax技术</title>
+  <id>http://zhoukk.com/2014/10/about_pjax.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/10/about_pjax.html"></link>
+  <published>07 Oct 14 23:38 UTC</published>
+  <updated>07 Oct 14 23:38 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">关于pjax技术</summary>
+  <content type="html"></content>
+ </entry>
+ <entry>
+  <title>弘祎第一次来到他的小窝</title>
+  <id>http://zhoukk.com/2014/10/first_time_suzhou_home.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/10/first_time_suzhou_home.html"></link>
+  <published>06 Oct 14 23:26 UTC</published>
+  <updated>06 Oct 14 23:26 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">第一次来苏州参观我们自己的家</summary>
+  <content type="html"><p><img src="/image/IMG_20141006_094819.jpg" alt="" />
+</p>
+</content>
+ </entry>
+ <entry>
+  <title>弘祎第一次去外婆家</title>
+  <id>http://zhoukk.com/2014/10/first_time_maternal_grandma_home.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/10/first_time_maternal_grandma_home.html"></link>
+  <published>02 Oct 14 23:24 UTC</published>
+  <updated>02 Oct 14 23:24 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">去外婆家</summary>
+  <content type="html"></content>
+ </entry>
+ <entry>
+  <title>弘祎度过第一个月</title>
+  <id>http://zhoukk.com/2014/10/first_month.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/10/first_month.html"></link>
+  <published>01 Oct 14 23:19 UTC</published>
+  <updated>01 Oct 14 23:19 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">弘祎满月</summary>
+  <content type="html"><p><img src="/image/IMG_20141001_102924.jpg" alt="" />
+
+<img src="/image/IMG_20141001_144213.jpg" alt="" />
+</p>
+</content>
+ </entry>
+ <entry>
+  <title>弘祎第一次回家</title>
+  <id>http://zhoukk.com/2014/9/first_time_home.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/9/first_time_home.html"></link>
+  <published>06 Sep 14 23:10 UTC</published>
+  <updated>06 Sep 14 23:10 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">弘祎从丹阳人民医院回到下琴村</summary>
+  <content type="html"><p><img src="/image/IMG_20140905_161037.jpg" alt="" />
+</p>
+</content>
+ </entry>
+ <entry>
+  <title>弘祎第一次游泳</title>
+  <id>http://zhoukk.com/2014/9/first_time_swimming.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/9/first_time_swimming.html"></link>
+  <published>02 Sep 14 23:15 UTC</published>
+  <updated>02 Sep 14 23:15 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html"></summary>
+  <content type="html"><p><img src="/image/IMG_20140903_095641.jpg" alt="" />
+</p>
+</content>
+ </entry>
+ <entry>
+  <title>弘祎的第一天</title>
+  <id>http://zhoukk.com/2014/9/first_day.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/9/first_day.html"></link>
+  <published>01 Sep 14 16:14 UTC</published>
+  <updated>01 Sep 14 16:14 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">弘祎出生</summary>
+  <content type="html"><p>2014年9月1号晚22点50分，弘祎出生</p>
+
+<p><img src="/image/IMG_20140902_020116.jpg" alt="" />
+</p>
+</content>
+ </entry>
+ <entry>
+  <title>第一篇</title>
+  <id>http://zhoukk.com/2014/8/first.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/8/first.html"></link>
+  <published>30 Aug 14 19:50 UTC</published>
+  <updated>30 Aug 14 19:50 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html">关于本小站</summary>
+  <content type="html"><p>小站开通了，过来写个开场白吧，由于个人文字水平实在不怎么滴，就随便写写了。如果你碰巧路过此处，你也就随便一看吧 :D</p>
+
+<p>前段时间孩子出生了，心里想着要有个地方或文字或图片也或者视频的形式记录他成长过程中的点点滴滴,和往后的一些日常小事。刚好前几天也买到了这个域名<a href="http://zhoukk.com">zhoukk.com</a>，顺手就搭起了这个小站。</p>
+
+<p>下面说说这个小站本身吧。小站是个静态网站，目前存储在<a href="https://pages.github.com/">github pages</a>服务上，免费300M空间一般够用了，免费、网速好还不用备案，推荐试用。本小站全部代码及资源存储在github的公开库中，地址<a href="https://github.com/zhoukk/zhoukk.github.io">zhoukk.github.io</a>。顺便写了个简单的静态网站生成工具用于生成本小站。该工具也在github公开库中<a href="https://github.com/zhoukk/pd">https://github.com/zhoukk/pd</a>。闲的时候会慢慢完善这个工具 （敲代码也是为数不多的爱好之一了）</p>
+
+<p>希望能一直坚持更新小站</p>
+</content>
+ </entry>
+</feed>
