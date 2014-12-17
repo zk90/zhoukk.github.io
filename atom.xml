@@ -3,7 +3,21 @@
  <title>zhoukk</title>
  <id>http://zhoukk.com</id>
  <link rel="self" href="http://zhoukk.com/atom.xml"></link>
- <updated>20 Oct 14 16:10 CST</updated>
+ <updated>17 Dec 14 13:51 CST</updated>
+ <entry>
+  <title>弘祎第一百天</title>
+  <id>http://zhoukk.com/2014/12/one_hundred_day.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2014/12/one_hundred_day.html"></link>
+  <published>09 Dec 14 23:59 UTC</published>
+  <updated>09 Dec 14 23:59 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html"></summary>
+  <content type="html"><p><img src="/image/mmexport1418140962466.jpg" alt="" />
+</p>
+</content>
+ </entry>
  <entry>
   <title>Dennis Ritchie</title>
   <id>http://zhoukk.com/2014/10/dennis_ritchie.html</id>
