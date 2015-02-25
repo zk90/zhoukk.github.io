@@ -17,41 +17,48 @@
 <title>弘祎的第一天</title>
 </head>
 <body>
+	<div class="navbar">
 	<nav>
+		
+		<div class="container">
+			<ul>
+				<li>
+					<a href="/">主页</a>
+				</li>
+				<li>
+					<a href="/archive.html">存档</a>
+				</li >
+				<li>
+					<a href="/about.html">关于</a>
+				</li>
+				<li>
+					<a href="/album.html">相册</a>
+				</li>
+				<li>
+					<a href="/msgboard.html">留言</a>
+				</li>
+				<li>
+					<a href="/rss.xml">RSS</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</div>
 	
-	<div class="container">
-		<ul>
-			<li>
-				<a href="/">主页</a>
-			</li>
-			<li>
-				<a href="/archive.html">存档</a>
-			</li >
-			<li>
-				<a href="/about.html">关于</a>
-			</li>
-			<li>
-				<a href="/msgboard.html">留言</a>
-			</li>
-			<li>
-				<a href="/rss.xml">RSS</a>
-			</li>
-		</ul>
-	</div>
-</nav>
+<div id="pjax-container" class="container" role="main">
 	
-<div class="container" role="main">
 	<header>
 		<h1>弘祎的第一天</h1>
 		<small>2014-09-01 - 弘祎的第一次</small>
 	</header>
 	<article>
-		<p>2014年9月1号晚22点50分，弘祎出生</p>
+		<div class="post-content">
+			<p>2014年9月1号晚22点50分，弘祎出生</p>
 
-<p><img src="/image/IMG_20140902_020116.jpg" alt="" />
+<p><img src="/image/2014-9-2-2-1-16.jpg" alt="" />
 </p>
 
-		<ul class="pager">
+			<ul class="pager">
 	
 	<li class="previous">
 		<a href="/2014/8/first.html" title="第一篇">&larr; 上一篇</a>
@@ -63,8 +70,7 @@
 	</li>
 	
 </ul>
-	</article>
-	<div id="disqus_thread"></div>
+			<div id="disqus_thread"></div>
 <script type="text/javascript">
 	var disqus_shortname = 'zhoukk';
 	(function() {
@@ -90,6 +96,8 @@
 		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 	}());
 </script>
+		</div>
+	</article>
 </div>
 
 	<footer>
@@ -103,5 +111,7 @@
 <script type="text/javascript" src="http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdn.staticfile.org/jquery.pjax/1.9.2/jquery.pjax.min.js"></script>
 <script type="text/javascript" src="/static/js/zhoukk.js"></script>
+	
+
 </body>
 </html>

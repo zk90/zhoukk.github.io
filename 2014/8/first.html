@@ -17,36 +17,43 @@
 <title>第一篇</title>
 </head>
 <body>
+	<div class="navbar">
 	<nav>
+		
+		<div class="container">
+			<ul>
+				<li>
+					<a href="/">主页</a>
+				</li>
+				<li>
+					<a href="/archive.html">存档</a>
+				</li >
+				<li>
+					<a href="/about.html">关于</a>
+				</li>
+				<li>
+					<a href="/album.html">相册</a>
+				</li>
+				<li>
+					<a href="/msgboard.html">留言</a>
+				</li>
+				<li>
+					<a href="/rss.xml">RSS</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</div>
 	
-	<div class="container">
-		<ul>
-			<li>
-				<a href="/">主页</a>
-			</li>
-			<li>
-				<a href="/archive.html">存档</a>
-			</li >
-			<li>
-				<a href="/about.html">关于</a>
-			</li>
-			<li>
-				<a href="/msgboard.html">留言</a>
-			</li>
-			<li>
-				<a href="/rss.xml">RSS</a>
-			</li>
-		</ul>
-	</div>
-</nav>
+<div id="pjax-container" class="container" role="main">
 	
-<div class="container" role="main">
 	<header>
 		<h1>第一篇</h1>
 		<small>2014-08-30 - 默认</small>
 	</header>
 	<article>
-		<p>小站开通了，过来写个开场白吧，由于个人文字水平实在不怎么滴，就随便写写了。如果你碰巧路过此处，你也就随便一看吧 :D</p>
+		<div class="post-content">
+			<p>小站开通了，过来写个开场白吧，由于个人文字水平实在不怎么滴，就随便写写了。如果你碰巧路过此处，你也就随便一看吧 :D</p>
 
 <p>前段时间孩子出生了，心里想着要有个地方或文字或图片也或者视频的形式记录他成长过程中的点点滴滴,和往后的一些日常小事。刚好前几天也买到了这个域名<a href="http://zhoukk.com">zhoukk.com</a>，顺手就搭起了这个小站。</p>
 
@@ -54,7 +61,7 @@
 
 <p>希望能一直坚持更新小站</p>
 
-		<ul class="pager">
+			<ul class="pager">
 	
 	<li class="previous disabled">
 		<a>&larr; 上一篇</a>
@@ -66,8 +73,7 @@
 	</li>
 	
 </ul>
-	</article>
-	<div id="disqus_thread"></div>
+			<div id="disqus_thread"></div>
 <script type="text/javascript">
 	var disqus_shortname = 'zhoukk';
 	(function() {
@@ -93,6 +99,8 @@
 		(document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
 	}());
 </script>
+		</div>
+	</article>
 </div>
 
 	<footer>
@@ -106,5 +114,7 @@
 <script type="text/javascript" src="http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://cdn.staticfile.org/jquery.pjax/1.9.2/jquery.pjax.min.js"></script>
 <script type="text/javascript" src="/static/js/zhoukk.js"></script>
+	
+
 </body>
 </html>

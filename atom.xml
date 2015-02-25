@@ -3,7 +3,23 @@
  <title>zhoukk</title>
  <id>http://zhoukk.com</id>
  <link rel="self" href="http://zhoukk.com/atom.xml"></link>
- <updated>29 Dec 14 21:29 +0800</updated>
+ <updated>25 Feb 15 20:53 CST</updated>
+ <entry>
+  <title>弘祎第一次过新年</title>
+  <id>http://zhoukk.com/2015/2/first_new_year.html</id>
+  <link rel="alternate" href="http://zhoukk.com/2015/2/first_new_year.html"></link>
+  <published>25 Feb 15 20:32 UTC</published>
+  <updated>25 Feb 15 20:32 UTC</updated>
+  <author>
+   <name>zhoukk</name>
+  </author>
+  <summary type="html"></summary>
+  <content type="html"><p>弘祎两岁啦</p>
+
+<p><img src="/image/2015-2-19-9-45-19.jpg" alt="" />
+</p>
+</content>
+ </entry>
  <entry>
   <title>弘祎第一百天</title>
   <id>http://zhoukk.com/2014/12/one_hundred_day.html</id>
@@ -14,9 +30,7 @@
    <name>zhoukk</name>
   </author>
   <summary type="html"></summary>
-  <content type="html"><p><img src="/image/mmexport1418140962466.jpg" alt="" />
-
-<img src="/image/QQ20141229211652.jpg" alt="" />
+  <content type="html"><p><img src="/image/2014-12-29-21-18-1.jpg" alt="" />
 </p>
 </content>
  </entry>
@@ -64,7 +78,7 @@ int main() {
    <name>zhoukk</name>
   </author>
   <summary type="html">第一次来苏州参观我们自己的家</summary>
-  <content type="html"><p><img src="/image/IMG_20141006_094819.jpg" alt="" />
+  <content type="html"><p><img src="/image/2014-10-6-9-48-18.jpg" alt="" />
 </p>
 </content>
  </entry>
@@ -90,9 +104,9 @@ int main() {
    <name>zhoukk</name>
   </author>
   <summary type="html">弘祎满月</summary>
-  <content type="html"><p><img src="/image/IMG_20141001_102924.jpg" alt="" />
+  <content type="html"><p><img src="/image/2014-10-1-10-29-24.jpg" alt="" />
 
-<img src="/image/IMG_20141001_144213.jpg" alt="" />
+<img src="/image/2014-10-1-14-42-12.jpg" alt="" />
 </p>
 </content>
  </entry>
@@ -106,7 +120,7 @@ int main() {
    <name>zhoukk</name>
   </author>
   <summary type="html">弘祎从丹阳人民医院回到下琴村</summary>
-  <content type="html"><p><img src="/image/IMG_20140905_161037.jpg" alt="" />
+  <content type="html"><p><img src="/image/2014-9-5-16-10-37.jpg" alt="" />
 </p>
 </content>
  </entry>
@@ -120,7 +134,7 @@ int main() {
    <name>zhoukk</name>
   </author>
   <summary type="html"></summary>
-  <content type="html"><p><img src="/image/IMG_20140903_095641.jpg" alt="" />
+  <content type="html"><p><img src="/image/2014-9-3-9-56-41.jpg" alt="" />
 </p>
 </content>
  </entry>
@@ -136,7 +150,7 @@ int main() {
   <summary type="html">弘祎出生</summary>
   <content type="html"><p>2014年9月1号晚22点50分，弘祎出生</p>
 
-<p><img src="/image/IMG_20140902_020116.jpg" alt="" />
+<p><img src="/image/2014-9-2-2-1-16.jpg" alt="" />
 </p>
 </content>
  </entry>
